@@ -1,5 +1,10 @@
 # 💫 About Me:
- A passionate Software Engineer with a strong foundation in  <br>Fullstack development  and problem-solving.
+ 👋 Hi, I’m Anand Raj  
+💻 Full-Stack Software Engineer (Fresher) with strong proficiency in Data Structures and Algorithms 
+🧠 Solid understanding of OOPs, Operating Systems, and Computer Networks  
+⚙️ Experienced in building end-to-end applications with clean, maintainable, and scalable code  
+📈 Strong problem-solving mindset with regular practice on DSA and coding platforms  
+🎯 Actively seeking full-stack software engineering opportunities to contribute, learn, and grow in a professional environment  
 
 
 ## 🌐 Socials:
