@@ -1,5 +1,5 @@
 # 💫 About Me:
- A passionate Software Engineer (Fresher) with a strong foundation in  <br>Fullstack development  and problem-solving.
+ A passionate Software Engineer with a strong foundation in  <br>Fullstack development  and problem-solving.
 
 
 ## 🌐 Socials:
